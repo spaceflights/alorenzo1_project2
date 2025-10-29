@@ -1,7 +1,12 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@400;600&display=swap");
+
+body {
+  font-family: "Nunito Sans", "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
 body.index {
   background-color: #f8f5ff;
   color: #222;
-  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   max-width: 1200px;
   margin: 0 auto;
   padding: 30px 50px;
@@ -65,7 +70,6 @@ body.index img {
 body.about {
   background-color: #fff9f9;
   color: #222;
-  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   max-width: 95%;
   margin: 0 auto;
   padding: 30px 40px;
@@ -112,7 +116,6 @@ body.about a:hover {
 body.resume {
   background-color: #f2f0ff;
   color: #222;
-  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   width: 800px;
   margin: 0 auto;
   padding: 40px 60px;
@@ -125,7 +128,6 @@ body.resume h1 {
   margin-bottom: 10px;
 }
 
-/* first paragraph = contact info line */
 body.resume p:first-of-type {
   text-align: center;
   font-size: 1.05rem;
@@ -189,7 +191,6 @@ body.resume a:hover {
 body.interests {
   background-color: #fff9f9;
   color: #222;
-  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   max-width: 95%;
   margin: 0 auto;
   padding: 30px 40px;
